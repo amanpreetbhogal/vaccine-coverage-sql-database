@@ -13,6 +13,8 @@ The goal: guide **targeted public-health investments** promoting the *safety and
 
 I built the database schema, designed an **ERD**, wrote analytical **SQL queries**, and summarized insights in a final **presentation** connecting data analytics to real-world impact.  
 
+Data Source: https://data.cdc.gov/Pregnancy-Vaccination/Vaccination-Coverage-among-Pregnant-Women/h7pm-wmjc/about_data
+
 ---
 
 ## 🧩 Database Design  
