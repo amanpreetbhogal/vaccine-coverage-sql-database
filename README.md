@@ -53,7 +53,7 @@ Each query addressed a distinct public-health question:
 | 🌎 Which racial/ethnic group has the lowest coverage? | `JOIN + GROUP BY` |
 | 💉 How many studies covered Influenza vs Tdap? | `COUNT()` grouping |
 
-➡️ See all queries in [`vaccine_queries.sql`](vaccine_queries.sql)
+➡️ See all queries in [`vaccine_queries.sql`](queries/vaccine_queries.sql)
 
 ---
 
