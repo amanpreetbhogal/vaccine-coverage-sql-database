@@ -121,5 +121,5 @@ vaccine-coverage-sql-database/
 
 ## 🧾 Project Presentation  
 
-📂 [View the full project presentation (PDF)](vaccine_presentation.pdf)  
+📂 [View the full project presentation (PDF)](presentation/vaccine_presentation.pdf)  
 This presentation summarizes my findings, ERD design, and key business recommendations for data-driven investment in vaccine coverage.
