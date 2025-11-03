@@ -86,7 +86,7 @@ Insights can inform:
 
 | Tool | Role |
 |:-----|:-----|
-| 🧮 **DataGrip / PostgreSQL** | Database creation, schema design, querying |
+| 🧮 **DataGrip / MySQL** | Database creation, schema design, querying |
 | 🧱 **SQL** | Data wrangling, joins, aggregation, normalization |
 | 🧭 **Lucidchart** | ERD and schema visualization |
 | 📊 **Canva** | Final business presentation design |
