@@ -19,7 +19,7 @@ Data Source: https://data.cdc.gov/Pregnancy-Vaccination/Vaccination-Coverage-amo
 
 ## Database Design  
 
-The raw CDC dataset (~2 000 rows) was cleaned, filtered, and **normalized** into six tables:
+The CDC dataset (~100 rows) was cleaned, filtered, and **normalized** into six tables:
 
 | Table | Description |
 |:------|:-------------|
